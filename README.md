@@ -10,6 +10,7 @@ git init
 git remote add origin https://github.com/dinhdiane/dahlias.git
 git checkout -b main
 git pull origin main
+npm i
 ```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
